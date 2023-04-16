@@ -80,4 +80,4 @@ Exploring the data further can definitely help in refining the recommendations f
 4. Finally, comparing the performance of films across different venues, such as theaters and streaming platforms, can provide insights into market trends and consumer preferences. This information can be used to inform decisions about distribution channels and release dates, which can have a significant impact on the success of a film.
 
 ### Non-Technical Presentation
-* [You can find the presentation slides here!](http://localhost:8888/files/dsc-phase-1-project-v2-4/Project%20Presentation.pdf)
+* [You can find the presentation slides here!](https://github.com/CynthiaWanyonyi/dsc-phase-1-project-v2-4/blob/master/Project%20Presentation.pdf)
